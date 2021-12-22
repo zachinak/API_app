@@ -1,0 +1,3 @@
+Work in progress.
+The vision for this application is to create a simple web interface with a node.js backend to provide streamlined ETL from JSON REST APIs to a SQLITE database. 
+More details will be added as the project takes shape. 
