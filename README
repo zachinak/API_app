@@ -1,3 +1,6 @@
 Work in progress.
 The vision for this application is to create a simple web interface with a node.js backend to provide streamlined ETL from JSON REST APIs to a SQLITE database. 
 More details will be added as the project takes shape. 
+
+To reinstall the node_modules run "npm install". This command looks at the packages.json and installs all relevant packages.
+package-lock.json locks dependencies to a particular version number. If version number is irrelevant you can delete the file. You must include packages.json though.
