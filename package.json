@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/zachinak/API_app#readme",
   "dependencies": {
+    "logplease": "^1.2.15",
     "nodemon": "^2.0.15",
     "npm": "^8.3.0",
     "uuid": "^8.3.2"
